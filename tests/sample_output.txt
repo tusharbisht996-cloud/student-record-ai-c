@@ -1,0 +1,36 @@
+
+===== STUDENT RECORD AND RESULT MANAGEMENT SYSTEM =====
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Delete Student
+5. Calculate and Display CGPA
+6. Average CGPA by Year
+7. Sort by SAP ID
+8. Sort by Name
+9. AI Academic Advisor
+10. Exit
+
+Enter your choice: 1
+Enter SAP ID: 590033218
+Enter Roll Number: 1
+Enter Name: Test Student
+Enter Phone: 9876543210
+Enter Email: test@example.com
+Enter Year (1-4): 1
+Enter Current Semester (1-8): 2
+Enter SGPA for Semester 1: 9.0
+Enter SGPA for Semester 2: 8.0
+Student added successfully!
+
+Enter your choice: 9
+Enter SAP ID for academic advice: 590033218
+
+--- AI ACADEMIC ADVISOR ---
+Student: Test Student
+CGPA: 8.50
+Category: Excellent
+Recommendation: Maintain your performance and explore advanced projects.
+
+Enter your choice: 10
+Thank you for using the system!
